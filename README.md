@@ -1,6 +1,6 @@
 # taro-styles
 为taro小程序框架提供类似rn的styles机制。
-可以使用rn里是style语法。
+可以使用rn里的style语法。
 
 使用示例：
 ```
